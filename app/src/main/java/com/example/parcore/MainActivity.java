@@ -29,7 +29,6 @@ public class MainActivity extends AppCompatActivity
     private Button button;
     private Button button5;
     private Button button3;
-    private Button button4;
 
 
     @Override
